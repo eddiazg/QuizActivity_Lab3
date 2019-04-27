@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">QuizActivity_Lab3</string>
+    <string name="text_view_title">Titulo para ejemplo</string>
+    <string name="correct_toast">Correct!</string>
+
+</resources>
